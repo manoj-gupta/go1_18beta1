@@ -1,6 +1,10 @@
-# go 1.18 beta1 features
+# golang features
 
-## Fuzzing
+## 1.18 beta1
+* Generics
+* Fuzzing
+
+### Fuzzing
 
 * Run test **without** Fuzzing
 ```
